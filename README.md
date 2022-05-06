@@ -43,7 +43,7 @@ $ npm install
 # Run migrate
 $ npx prisma migrate dev
 
-# To finish, run the api service
+# Done, backend is running
 $ npm run dev
 
 # Well done, project is started!
@@ -56,7 +56,7 @@ $ cd web
 # Install the dependencies
 $ npm install
 
-# To finish, run the api service
+# Done, frontend is running
 $ npm run dev
 
 # Well done, project is started!
